@@ -18,7 +18,7 @@ function filterInitials(arr, initial) {
 
 // Invoca la funzione qui e stampa il risultato in console
 console.log(filterInitials(names, 'a'));
-
+ 
 
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]

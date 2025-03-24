@@ -8,7 +8,7 @@ const greet = firstName => `Ciao ${firstName}.`;
 
 
 // Invoca la funzione qui e stampa il risultato in console
-console.log(greet(name));
+console.log(greet(name)); 
 
 
 
